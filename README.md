@@ -1,19 +1,14 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+<div align="center">
+  <h3>📈 Estadísticas de GitHub</h3>
+
+  <!-- Rejilla de Tarjetas Principales -->
+  <p>
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=rauletsinf&show_icons=true&theme=transparent&hide_border=true&title_color=4285F4&icon_color=4285F4&text_color=000000" alt="Estadísticas de Raúl" height="165" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rauletsinf&layout=compact&theme=transparent&hide_border=true&title_color=4285F4&text_color=000000&hide=html,css" alt="Lenguajes más usados" height="165" />
+  </p>
+
+  <!-- Tarjeta de Racha de Contribuciones -->
+  <p>
+    <img src="https://streak-stats.demolab.com?user=rauletsinf&theme=transparent&hide_border=true&ring=4285F4&fire=4285F4&currStreakLabel=4285F4&sideNums=000000&sideTitle=000000&dates=888888" alt="Racha de contribuciones" />
+  </p>
 </div>
-
-<!--
-**RaulETSINF/RaulETSINF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
