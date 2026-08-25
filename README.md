@@ -75,5 +75,8 @@
     <img src="https://img.shields.io/badge/RevenueCat-FF4B4B?style=for-the-badge&logo=revenuecat&logoColor=white" alt="RevenueCat" />
   </p>
 
-</div>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rauletsinf&theme=github&animation=load&name=Raul+Piqueras&title_color=000000&text_color=000000&bg_color=ffffff&border_color=ffffff&icon_color=26a269&chart_color=26a269)
+
+</div>
+
+
